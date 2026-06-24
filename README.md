@@ -2,7 +2,7 @@
 
 A hybrid **rule-based + machine learning** dashboard that detects scams, fake news, hate speech, financial fraud, and misinformation in any text message — with full explainability and zero external API dependency.
 
-Built for [Hackathon Name] · 2026
+Built for [Global South AI Safety Hackathon] (June 19–21, 2026), attending in-person at IIT Delhi on June 20th-2026
 
 ---
 
